@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveen-1101" alt="praveen-1101" /></a> </p>
 
-- 🔭 I’m currently working on [Resume Analyzer](https://github.com/praveen-1101/Resume-Analyzer)
-
 - 🌱 I’m currently learning **Next.js, GraphQL, Django, REST API**
 
 - 👯 I’m looking to collaborate on **Open-source React & Node.js projects**
